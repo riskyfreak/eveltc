@@ -5,4 +5,4 @@ $Email = "xxxxxxxxxx";
 $Password = "xxxxxxx";
 
 //Masukkan Cookie -> cf_clearance atau PHPSESSID
-$Cookie = "0hgoq9ck1ji6asvblbk1hrgt04";
+$Cookie = "t98u88acio94q8uafpuk228sk2";
